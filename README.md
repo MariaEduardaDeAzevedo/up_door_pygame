@@ -1,4 +1,4 @@
-#Jogo de plataformas feito em Python
+# Jogo de plataformas feito em Python
 
 Este jogo foi desenvolvido utilizando apenas programação imperativa e foram utilizadas algumas bibliotecas Python para seu desenvolvimento, duas delas foram a framework Pygame e a biblioteca para criação de interfaces GUI Tkinter.
 
